@@ -2,7 +2,11 @@ import "./footer.scss"
 
 const Footer = () => {
   return (
-    <div className="footer">Footer</div>
+    <div className="footer">
+      <span>Tovoir</span>
+      <span>©Tovoir Dev Admin Dashboard</span>
+
+    </div>
   )
 }
 
